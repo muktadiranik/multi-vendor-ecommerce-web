@@ -1,0 +1,7 @@
+.mapboxgl-ctrl-geocoder input[type="text"] {
+  background-color: #da2525;
+  border-radius: 4px;
+  border: none;
+  padding: 8px;
+  width: 100%;
+}
